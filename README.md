@@ -9,6 +9,12 @@ Insights
    mean the home page is not more engaging for the visitors.
 2. Steady increase in monthly orders, peaking in holiday seasons with 
    conversion rate of 6.8%.
+3. Organic, direct and paid channels all are increasing over the time
+4. Weekdays generally see higher session counts compared to weekends. Monday 
+   to Thursday have higher traffic than Friday to Sunday.
+5. Repeat users  came mainly through organic, direct type-in and paid 
+   channels
+
    
 Recommendations
 1. Focus on High-Performing Channels - Gsearch is the top-performing 
